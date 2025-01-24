@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-NPC Behaviour Testing-0.1";
 const contentToCache = [
-    "Build/IntoTheCrypts_WebGL_Build.loader.js",
-    "Build/IntoTheCrypts_WebGL_Build.framework.js",
-    "Build/IntoTheCrypts_WebGL_Build.data",
-    "Build/IntoTheCrypts_WebGL_Build.wasm",
+    "Build/Build_1_01.loader.js",
+    "Build/Build_1_01.framework.js",
+    "Build/Build_1_01.data",
+    "Build/Build_1_01.wasm",
     "TemplateData/style.css"
 
 ];
