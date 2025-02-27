@@ -1,4 +1,5 @@
 const cacheName = "DefaultCompany-Into The Crypts-0.1";
+const cacheName = "DefaultCompany-Into The Crypts-0.1";
 const contentToCache = [
     "Build/IntoTheCrypts_WebGL_Build.loader.js",
     "Build/IntoTheCrypts_WebGL_Build.framework.js",
